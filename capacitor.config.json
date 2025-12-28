@@ -1,9 +1,9 @@
 ﻿{
     "appId": "com.ednovas.donguatv",
-    "appName": "E视界",
+    "appName": "SmallHao视界",
     "webDir": "public",
     "server": {
-        "url": "https://ednovas.video",
+        "url": "https://dgtv.20211112.xyz:8888/",
         "cleartext": true
     },
     "plugins": {
@@ -13,4 +13,5 @@
             "backgroundColor": "#000000"
         }
     }
+
 }
